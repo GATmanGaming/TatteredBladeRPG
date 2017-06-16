@@ -1,0 +1,67 @@
+"a" = (/turf,/area)
+"b" = (/turf/wood_01,/area)
+"c" = (/turf/wall_01,/area)
+"d" = (/obj/anvil,/turf,/area)
+"e" = (/mob/npc/npc1,/turf,/area)
+"f" = (/mob/npc/npc3,/turf,/area)
+"g" = (/turf/floor_01,/area/help/banker)
+"h" = (/mob/npc/banker,/turf/floor_01,/area/help/banker)
+"i" = (/turf/floor_01,/area)
+"j" = (/mob/npc/npc2,/turf/floor_01,/area)
+"k" = (/turf/floor_01,/area/help/shopkeeper)
+"l" = (/mob/npc/shopkeeper,/turf/floor_01,/area/help/shopkeeper)
+"m" = (/mob/npc/guard,/turf,/area)
+"n" = (/turf,/area/help/enemies)
+"o" = (/turf/wall_01,/area/help/enemies)
+"p" = (/turf/stone_01,/area)
+"q" = (/turf/stone_01,/area/help/enemies)
+"r" = (/mob/enemy/blue_ooze,/turf,/area/help/enemies)
+"s" = (/mob/enemy/green_ooze,/turf,/area/help/enemies)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaabbbbbbbbbbbbbccccccccccccccccccccc
+aaaaaaaaaaabaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaac
+aaaaaaaaaaabaadaaaaaaaabaaaaaaaaaaaaaaaaaaaac
+aaaaaaaabbbbbaaaeaaaaaabaaaaaaaaaaaaaaaaafaac
+aaaaaaaabghgbaaaaaabbbbbbbbaaacaaaaaaaaaaaaac
+aaaaaaaabggggaaaaaabiiiiiibacacaccaaaaaaaaaac
+aaaaaaaabggggaaaaaabiijiiibacccccaaaaaaaaaaac
+aaaaaaaabgggbaaaaaabiiiiiibacccccccaaaaaaaaac
+aaaaaaaabbbbbbbaaaabiiiiiibccccaaaaaaaaaaaaac
+aaaaaaaabkkkkkbaaaabbbibbbbacccacaaaaaaaacccc
+aaaaaaaabklkkkbaaaaaaaaaaaaacacccaaaaaacccccc
+aaaaaaaabkkkkkkaaaamaaaaaaaccaaaaaaaaaacacccc
+aaaaaaaabkkkkkkaaaaaaaaaaaaaaaaaaaaaaaaaaaccc
+aaaaacccbkkkkkbaaaaaaaaaaaaaaaaaaaaaaaaacccac
+aaaaacnnbbbbbbbaaaaaaaaaaaaaaaaaaaaaaaaaacaac
+aaaaaonnnnocccaaaaaaaaaaaaaaaaaaaaaaaaaaaaaac
+aaaaaonnooocccaaaaaaaaaaaaaaaaaaaaaaaaaaaaaac
+aaaaaonnonoooccccaaaaaaaaaaaaaaaaaaaaaaaaaaac
+aaaaaonnnnnoocacaaaaaaaaaaaaaaaaaaaaaaaaaaaac
+aaaaaonnnoooncaaaaaaaaaaaaaaaaaaaaaaaaaappppp
+aaaaaonnnnonnoonnnnnnnnnnnnnnnnnnaaaaaaappppp
+aaaaaonnnnnnnonnnnnnnnnnnnnqqqnnnppppaaappppp
+aaaaaonnnnnnnnnnnnnnnnnnnnqqqqnnnqqqqqqqqqqqq
+aaaaaonnnnnnnnnnnnnnnnnnnnqqqnnnnqqqqqqqqqqqq
+aaaaaonnnnnnnnnnnnnnnnnnnnnnnnnnnqqqqnnnnnnnq
+aaaaaonnnnnnrnnnnnnnnnnnnnnnnnnnqqqnnnnnnnnnq
+aaaaaonnnnnnnnnnnnqqqnnnnnnnnnnnqqqnnqqqqnrnq
+aaaaaqqqnnnnnnnnnnqqqnnnnnnrnnnnqqqnnqqqqnnnq
+aaaaaqqqnnnnnnnnqqqqqnnnnnnnnnnnqqqnnqqqqnnnq
+aaaaaqqqnnnnnnnnqqqqnnnnnnnnnnnnqqqnnnnnnnnnq
+aaaaaqqnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnq
+aaaaaqqnnnnqqnnnnrnnnnnnnnnnnnnnnnnnnnnqqqnnq
+aaaaaqqnnnnqqqnnnnnnnnqqnnnnnnqqqqqqnsnqqqnnq
+aaaaaqqnnnnqqqnnnnnnnqqqnnnnnnqqqqqqnnnqqqnnq
+aaaaaqqqnsnnnnnnnnnnnqqqnnnqqqqqqqqqnnnnnnnnq
+aaaaaqqqnnnnnnnnqqqnnnnnnnnqqqqqnnnnnnnnnnnnq
+aaaaaqqqnnnnnnnnqqqnnnnnnsnqqqqqnnnnnnnnnnqqq
+aaaaaqqqqqqqqqqqqqqnnnnnnnnnnnnnnnqqqqqnnnqqq
+aaaaaqqqqqqqqqqqqqqnnnqqqnnnnnnnnnqqqqqnnnqqq
+aaaaaqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+"}
